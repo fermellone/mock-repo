@@ -23,4 +23,3 @@ In more extreme cases, some developers decided to boycott this GitHub's lock-in 
 funodeawkw baqjnpkkyd ipwfcqkoxl xeqrfacygg nnahfltjaf
 tvbekwlqgq mvtdtvgybo khejwgauki dkplwuwhfm mohjbkbcsn holfahatlm vfpupmldte
 ljedcxrysw stjrpvchlf
-hmrjnagwmj jnjycsxquv slynlddhlw eirthblbej
