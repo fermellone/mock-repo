@@ -2,7 +2,7 @@ import git
 from git_contributions_importer import *
 
 # Your private repo or Bitbucket repo
-repo = git.Repo("../../GOLSTATS/qatar-frontend/")
+repo = git.Repo("../../GOLSTATS/GolStats/")
 # Your mock repo
 mock_repo = git.Repo("../../GOLSTATS/mock-repo/")
 importer = Importer([repo], mock_repo)
